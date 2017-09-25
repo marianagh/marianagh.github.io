@@ -8,7 +8,7 @@ permalink: "/cv/"
 header: yes
 image: curriculum-vitae.jpg
 ---
-[Download as a PDF]({{site.url}}/assets/img/marianaghcv.pdf)
+[Download as a PDF](https://marianagh.github.io/assets/img/marianaghcv.pdf)
 
 ## Professional Experience
 -----
