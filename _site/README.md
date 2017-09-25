@@ -1,22 +1,10 @@
 
 
-My professional blog on Github.
-
-# Based on Flexible-Jekyll theme
-
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+My professional blog on Github. Based on Flexible-Jekyll theme.
 
 ## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
-
-The main page would look like this:
-
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+Check the orginal.theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
 ## Features
 
