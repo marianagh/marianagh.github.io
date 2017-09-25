@@ -1,8 +1,8 @@
-title: Hello, world! I'm David Freeman
+title: Hey It's Mariana Garcia Hernandez
 description: > # this means to ignore newlines until "baseurl:"
   Mariana Garcia Software Engineer Profesional Blog
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "marianagh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
