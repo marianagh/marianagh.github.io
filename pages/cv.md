@@ -48,22 +48,24 @@ Implementation of RULA and REBA methods.
 *June, 2016 - Nov, 2016*  
 Remote
 
-Assisted with architecture design and codification of the [Heliox Helper](http://proyectoheliox.org/blog/heliox-acceso-2-0/). The goal was create a tool that help indigenous communities to improve their learning of computer usage.
+Assisted with architecture design and codification of the [Heliox Helper](http://proyectoheliox.org/blog/heliox-acceso-2-0/). The goal was create a tool that help native communities to improve their learning of computer usage.
 
 
 ## Education:
 -----
 
 ### Instituto Tecnologico de Sonora
-**Bachelor of Software Engineering**  
+**Bachelor of Science in Software Engineering**  
 Guaymas, Sonora, MX
 
-Areas of concentration include software architecture design, programming and management.
+Areas of concentration include software design, programming and project management. Grade point average of 4.95. 
+
+Verified and evaluated by Spantran in affiliation with NACES and it meets the U.S. Accreditation Board of Engineering and Technology (ABET) requirements for an Engineering Program in Software Engineering.
 
 - Recipient of the Academic Merit Prize by ITSON.
 - Student of Excellence Second Place from [Nearsoft](https://nearsoft.com/).
 - All Star Dev from Intugo.
-- Hackathon 2.0 winner team member.
+- [Hackathon 2.0](http://iswug.net/hackathon-2-0-resena/)  winner team member.
 
 ## Computer Skills:
 -----
