@@ -1,10 +1,11 @@
+Mariana Garcia Hernandez professional blog on Github. 
 
-
-My professional blog on Github. Based on Flexible-Jekyll theme.
+Based on Flexible-Jekyll theme.
+You can reuse this. :)
 
 ## Demo
 
-Check the orginal.theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+Check the orginal theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
 ## Features
 
