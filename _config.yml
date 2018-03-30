@@ -10,10 +10,10 @@ imgrul: 'http://marianagh.github.io/assets/images/'
 author: Mariana Garcia Hernandez # add your name
 author-img: mariana-garcia.jpg # add your photo
 about-author: Enthusiastic, highly-motivated Software Engineer graduate with proven leadership capabilities. # add description
-twitter: https://www.twitter.com/marianaghdev
+twitter: marianaghdev
 facebook: # add your Facebook handle
-github: https://github.com/marianagh
-linkedin: https://www.linkedin.com/in/marianagh
+github: marianagh
+linkedin: in/marianagh
 email: marianaghdev@gmail.com
 
 # Disqus
