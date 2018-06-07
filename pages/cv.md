@@ -8,17 +8,18 @@ permalink: "/cv/"
 header: yes
 image: curriculum-vitae.jpg
 ---
-[Download as a PDF](https://marianagh.github.io/assets/img/marianaghcv.pdf)
+[Download as a PDF](https://marianagh.github.io/assets/img/marianaghresume.pdf)
 
 ## Professional Experience
 -----
+
 
 ### The Offshore Group
 **Programming Analyst Jr.**  
 *May - Aug 2017*  
 Empalme, Sonora MX  
 
-- Programming Analyst at [The Offshore Group](https://offshoregroup.com/) specializing in building web applications with Genexus and SQL. 
+- Programming Analyst at [The Offshore Group](https://offshoregroup.com/) specializing in building web applications with Genexus and SQL.  
 
 - Coordinate with a team to collect requirements, define sprints and deliver functional products to stakeholders.
 
