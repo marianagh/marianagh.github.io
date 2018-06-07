@@ -1,4 +1,4 @@
-title: Hey It's Mariana Garcia Hernandez
+title: Hey It's Mariana Garcia
 description: > # this means to ignore newlines until "baseurl:"
   Mariana Garcia Software Engineer Profesional Blog
 permalink: ':title/'
@@ -7,7 +7,7 @@ url: "marianagh.github.io/" # the base hostname & protocol for your site, e.g. h
 imgrul: 'http://marianagh.github.io/assets/images/'
 
 # Author Settings
-author: Mariana Garcia Hernandez # add your name
+author: Mariana Garcia # add your name
 author-img: mariana-garcia.jpg # add your photo
 about-author: Software Engineer graduate who likes challenges and learning new tech. # add description
 twitter: marianaghdev
