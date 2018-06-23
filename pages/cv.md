@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Curriculum Vitae"
-meta_description: "Curriculum Vitae or Résumé of Mariana Garcia Hernandez"
+title: "Resume"
+meta_description: "Resume of Mariana Garcia"
 subheadline: ""
 permalink: "/cv/"
 header: yes
@@ -12,7 +12,6 @@ image: curriculum-vitae.jpg
 
 ## Professional Experience
 -----
-
 
 ### The Offshore Group
 **Programming Analyst Jr.**  
@@ -32,15 +31,6 @@ Guaymas, Sonora, MX
 
 Creation of Supply Chain Management RESTful API and Web Client on PHP with Laravel Framework using Blade Templating and Bootstrap.
 
-### ITSON
-**Android Developer**  
-*AUG 2015 - DEC 2015*  
-Guaymas, Sonora, MX
-
-Design and programming for Android app on Java for ergonomic risk measurement of task performance on  manufacturing industries.
-
-Implementation of RULA and REBA methods.
-
 ## Volunteer Experience:
 -----
 
@@ -50,6 +40,15 @@ Implementation of RULA and REBA methods.
 Remote
 
 Assisted with architecture design and codification of the [Heliox Helper](http://proyectoheliox.org/blog/heliox-acceso-2-0/). The goal was create a tool that help native communities to improve their learning of computer usage.
+
+### ITSON
+**Android Developer**  
+*AUG 2015 - DEC 2015*  
+Guaymas, Sonora, MX
+
+Design and programming for Android app on Java for ergonomic risk measurement of task performance on  manufacturing industries.
+
+Implementation of RULA and REBA methods.
 
 
 ## Education:
