@@ -39,7 +39,7 @@ Creation of Supply Chain Management RESTful API and Web Client on PHP with Larav
 *June, 2016 - Nov, 2016*  
 Remote
 
-Assisted with architecture design and codification of the [Heliox Helper](http://proyectoheliox.org/blog/heliox-acceso-2-0/). The goal was create a tool that help native communities to improve their learning of computer usage.
+Assisted with architecture design and codification of the [Heliox Helper](http://proyectoheliox.org/blog/heliox-acceso-2-0/). The goal was create a tool that help native communities to improve their learning of computer usage. Deployed for Linux and Windows.
 
 ### ITSON
 **Android Developer**  
@@ -58,24 +58,11 @@ Implementation of RULA and REBA methods.
 **Bachelor of Science in Software Engineering**  
 Guaymas, Sonora, MX
 
-Areas of concentration include software design, programming and project management. Grade point average of 4.95. 
+Areas of concentration include software design, programming and project management. Grade point average of 3.95. 
 
 Verified and evaluated by Spantran in affiliation with NACES and it meets the U.S. Accreditation Board of Engineering and Technology (ABET) requirements for an Engineering Program in Software Engineering.
 
-- Recipient of the Academic Merit Prize by ITSON.
+Awards
 - Student of Excellence Second Place from [Nearsoft](https://nearsoft.com/).
 - All Star Dev from Intugo.
 - [Hackathon 2.0](http://iswug.net/hackathon-2-0-resena/)  winner team member.
-
-## Computer Skills:
------
-
-- Programming proficiency in Java and PHP.
-- Version control via Git and Github.
-- Front end web development with Sass. 
-- Cloud Computing via Heroku.
-- Backend web development via Node.JS and Express.
-- Database management with SQL Workbench, SQLManagement Studio, MongoDB. 
-- Adobe Software: Photoshop.
-- MS Office: Powerpoint, Word, Excel.
-- Team management: JIRA, Trello.
