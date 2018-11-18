@@ -1,4 +1,4 @@
-title:              Mariana Garcia
+title:              "Mariana Garcia"
 bio:                'Software Developer & Blogger'
 description:        "A blog to document my journey as a developer."
 reading_time:       true
@@ -69,7 +69,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://marianagh.github.io
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
