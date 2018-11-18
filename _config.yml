@@ -1,75 +1,49 @@
-title:              "Mariana Garcia"
-bio:                'Software Developer & Blogger'
-description:        "A blog to document my journey as a developer."
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://marianagh.github.io/
-
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
-
-# Comments
-disqus_shortname:   marianagh
-
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  analytics:        UA-107007901-1
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
-twitter:            _marianaghdev
-#facebook:           username
-github-url:         marianagh
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           in/marianagh
-#xing:              username
-instagram:          soymarianag
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-
-# Gems
-gems:
+--- 
+background: assets/img/placeholder-big.jpg
+bio: "Software Developer & Blogger"
+description: "A blog to document my journey as a developer."
+disqus_shortname: marianagh
+exclude: 
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - _site
+  - src
+  - vendor
+  - CNAME
+  - LICENSE
+  - Rakefile
+gems: 
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
-
-jekyll-mentions:
-    base_url: https://marianagh.github.io
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+github-url: marianagh
+highlighter: rouge
+instagram: soymarianag
+jekyll-mentions: 
+  base_url: "https://github.com"
+kramdown: 
+  auto_ids: true
+  enable_coderay: false
+  entity_output: as_char
+  footnote_nr: 1
+  toc_levels: "1..6"
+linkedin: in/marianagh
+locale: en_US
+logo: assets/img/logo.png
+markdown: kramdown
+mathjax: true
+permalink: "/:title/"
+reading_time: true
+sass: 
+  sass_dir: _sass
+  style: compressed
+tiled_bg: false
+title: "Mariana Garcia"
+twitter: _marianaghdev
+url: "https://marianagh.github.io/"
+words_per_minute: 200
