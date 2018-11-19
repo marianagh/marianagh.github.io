@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 date: 2017-09-25 11:32:20 +0300
 description:  Hello World by Mariana Garcia
-feature: hackathon-2.jpg
+feature: assets/img/hackathon-2.jpg
 comments: true
 tags: [First Post]
 ---
