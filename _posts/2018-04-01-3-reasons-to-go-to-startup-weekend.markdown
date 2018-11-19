@@ -3,8 +3,9 @@ layout: post
 title: 3 Reasons you should attend Startup Weekend
 date: 2018-06-03 10:05:20 +0300
 description:  Have you ever hesitated about attenting Startup Weekend? Today I'll bring you the three reasons you should go.
-img: sw-guaymas-2-why-attend.jpg
+feature: sw-guaymas-2-why-attend.jpg
 tags: [Entrepeneurship]
+comments: true
 ---
 Startup Weekend is an event that occurs on 54 hours given to create your business idea and develop it. Sounds easy but not a lot of people want to sacrifice a weekend from friends or video games to do “nerdy” things. That's why in this top three reasons to attend to Startup Weekend I'll share from my experience the benefits of going.
 

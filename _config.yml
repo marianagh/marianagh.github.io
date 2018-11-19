@@ -34,7 +34,7 @@ kramdown:
   toc_levels: "1..6"
 linkedin: in/marianagh
 locale: en_US
-logo: assets/img/logo.png
+logo: assets/img/mariana-garcia-hernandez-startup-weekend.jpg
 markdown: kramdown
 mathjax: true
 permalink: "/:title/"
@@ -44,6 +44,6 @@ sass:
   style: compressed
 tiled_bg: false
 title: "Mariana Garcia"
-twitter: _marianaghdev
+twitter: marianaghdev
 url: "https://marianagh.github.io/"
 words_per_minute: 200
