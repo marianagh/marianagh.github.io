@@ -18,12 +18,12 @@ Yes, you don't. You just need an idea or the initiative to help someone with the
 
  When you find you're self looking for your first internship or your first job and you know how to throw a pitch of you're self is one thing I learned on SW. This event really help me to start identifying myself professionally and talk about how I think I can help with my skills and get interviewed. Even better if you have your own company then you'll learn how to give a pitch on your idea or in the worst case how not to do it. You'll create the right connections. On a Startup Weekend I met people that later became my co-workers.
 
-![Throwing my final pitch.](/assets/img/sw-guaymas-pitch.jpg)
+![Throwing my final pitch.](assets/img/sw-guaymas-pitch.jpg)
 
 ## You will learn soft skills.
 
 This skills that they don't teach at school while you're in front the computer throwing code and making a lot of technical stuff are really helpful on "the real world". Translating technical requirements in to easy to understand terms for your teammates who are not related to software engineering is one of the most needed things on the job market.
 
-![](/assets/img/sw-guaymas-2-networking.jpg)
+![](assets/img/sw-guaymas-2-networking.jpg)
 
 To me is the place where people with ideas and resources merge together to create the cool stuff to make things happen.
