@@ -18,7 +18,7 @@ Yes, you don't. You just need an idea or the initiative to help someone with the
 
  When you find you're self looking for your first internship or your first job and you know how to throw a pitch of you're self is one thing I learned on SW. This event really help me to start identifying myself professionally and talk about how I think I can help with my skills and get interviewed. Even better if you have your own company then you'll learn how to give a pitch on your idea or in the worst case how not to do it. You'll create the right connections. On a Startup Weekend I met people that later became my co-workers.
 
-![Throwing my final pitch.]({{ site.baseurl }}assets/img/sw-guaymas-pitch.jpg)
+![Throwing my final pitch.]({{ site.url }}assets/img/sw-guaymas-pitch.jpg)
 
 ## You will learn soft skills.
 
