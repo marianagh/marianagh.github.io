@@ -25,7 +25,7 @@ github-url: marianagh
 highlighter: rouge
 instagram: soymarianag
 jekyll-mentions: 
-  base_url: "https://github.com"
+  base_url: "https://marianagh.github.io/"
 kramdown: 
   auto_ids: true
   enable_coderay: false

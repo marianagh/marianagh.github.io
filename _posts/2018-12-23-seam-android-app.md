@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![SEAM mobile app]({{ site.url }} assets/img/seam-captures.PNG)    
+![SEAM mobile app]({{ site.baseurl }} assets/img/seam-captures.PNG)    
     
 <center><b>SEAM</b> is a mobile app to mesure risk of performing a task with ergonomic calulation.</center>
      
