@@ -31,7 +31,7 @@ You can download the [repo](https://github.com/marianagh/eric) and compile it yo
 
 ## Publications
 
-![Mobile Application for an Ergonomic Risk Assessment at the Workplace]({{site.url}assets/img/mobile-app-reba-article.PNG})
+![Mobile Application for an Ergonomic Risk Assessment at the Workplace]({{site.url}assets/img/mobile-app-reba-article.PNG)
 
 [Mobile Application for an Ergonomic Risk Assessment at the Workplace](http://revistaadministracionfcaunach.mx/archivos/revista_1/numero_15/8.ARTICULO_6_APP_MOVIL_EVALUACION_RIESGOS.pdf) 
 
