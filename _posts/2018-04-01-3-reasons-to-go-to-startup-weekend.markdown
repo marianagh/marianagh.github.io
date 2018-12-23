@@ -24,6 +24,6 @@ Yes, you don't. You just need an idea or the initiative to help someone with the
 
 This skills that they don't teach at school while you're in front the computer throwing code and making a lot of technical stuff are really helpful on "the real world". Translating technical requirements in to easy to understand terms for your teammates who are not related to software engineering is one of the most needed things on the job market.
 
-![](assets/img/sw-guaymas-2-networking.jpg)
+![Working at the table.](assets/img/sw-guaymas-2-networking.jpg)
 
 To me is the place where people with ideas and resources merge together to create the cool stuff to make things happen.
